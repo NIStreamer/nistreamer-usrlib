@@ -1,6 +1,6 @@
-extern crate base_streamer;
+extern crate nistreamer_base;
 
-use base_streamer::usr_lib_prelude::*;
+use nistreamer_base::usr_lib_prelude::*;
 use std::f64::consts::PI;
 
 usrlib_boilerplate!();
