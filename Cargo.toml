@@ -1,5 +1,5 @@
 [package]
-name = "usr-fn-lib"
+name = "nistreamer-usrlib"
 version = "0.1.0"
 description = "An optional dependency of NIStreamer back-end - library of custom waveform functions"
 edition = "2021"
